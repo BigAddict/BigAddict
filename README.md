@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/big_addict079" target="blank"><img src="https://img.shields.io/twitter/follow/big_addict079?logo=twitter&style=for-the-badge" alt="big_addict079" /></a> </p>
 
-- 🌱 I’m currently learning **computer science**
+- 🌱 I’m currently learning **Machine Learning and Django**
 
 - 💬 Ask me about **python, pyqt5, tkinter**
 
